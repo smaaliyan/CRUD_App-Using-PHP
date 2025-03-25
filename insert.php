@@ -23,6 +23,7 @@
             <br><br>
             <button type="submit">Add User</button>
         </form>
+        <a class="view-btn" href="index.php">View Records</a>
     </div>
 </body>
 </html>
